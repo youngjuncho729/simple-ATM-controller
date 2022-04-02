@@ -1,5 +1,3 @@
-from logging import raiseExceptions
-from re import T
 from card import Card
 from bank import Bank
 from card_reader import CardReader
